@@ -1,0 +1,3 @@
+After writing the make, to execute myexe you have two options:
+writing either: 	export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/mohieldin/Documents/linuxRunners/linuxStudyGroup/System-Programmin-With-Linux/assignments/assignment_2/dynamiclib/
+or just copy the library from parent folder:	cp ../liblol.so .
